@@ -1,0 +1,54 @@
+Ana Souza
+111795
+85
+980000854
+Celular
+exemplo4@email.com
+Carla Mendes
+119609
+85
+980028572
+Fixo
+exemplo9@email.com
+Daniel Rocha
+105568
+85
+980012292
+Fixo
+exemplo7@email.com
+Eduarda Costa
+112707
+85
+980028429
+Celular
+exemplo6@email.com
+Felipe Alves
+121920
+85
+980005427
+Fixo
+exemplo3@email.com
+Gabriela Santos
+109203
+85
+980018009
+Celular
+exemplo0@email.com
+Henrique Oliveira
+129841
+85
+980029071
+Celular
+exemplo8@email.com
+Isabela Martins
+101488
+85
+980004111
+Celular
+exemplo2@email.com
+Joao Pereira
+128630
+85
+980016810
+Fixo
+exemplo5@email.com
