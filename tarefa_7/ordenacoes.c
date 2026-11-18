@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 #include <sys/time.h>
 
@@ -43,7 +44,6 @@ void print_vetor(int vetor[], int n) {
 
 
 int main() {
-    int i, rand;
     static int vetores[K][N];
 
     srand((int)time(NULL));
